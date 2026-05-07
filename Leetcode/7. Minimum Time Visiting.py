@@ -1,4 +1,6 @@
 # Leetcode 1266
+# Chebyshev distance - a measure of distance between two points defined as the maximum absolute difference between their coordinates.
+#It is most commonly known as chessboard distance
 
 points = [[1,1],[3,4],[-1,0]]
 # points = [[3,2],[-2,2]]
