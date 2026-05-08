@@ -8,3 +8,4 @@
 6. How Many Numbers Are Smaller Than the Current Number - 1365
 7. Minimum Time Visiting All Points - 1266
 8. Spiral Matrix - 54
+9. Best Time to Buy and Sell Stock - 121
